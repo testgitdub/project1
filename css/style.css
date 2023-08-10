@@ -1,0 +1,10 @@
+body{font-family: 'Open Sans', sans-serif;color:#4d4e4e;}
+h3 > a{color:#6bc4be;}
+h6{font-style:italic;}
+p{font-size:1.25rem;}
+aside .panel{background:#bff3ef;}
+.logo{width:200px;}
+.topline{margin-top:0;}
+.large-12 p{text-align:justify;}
+.button-group li{padding-left:20px;}
+.recipe-image{width:100%;}
