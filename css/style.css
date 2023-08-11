@@ -7,6 +7,10 @@ h3>a {
     color: #c37c35;
 }
 
+h4 {
+    color: #c37c35;
+}
+
 h6 {
     font-style: italic;
 }
@@ -37,7 +41,7 @@ aside .panel {
 }
 
 .button-group a {
-    color: #6f7065;
+    color: #c37c35;
 }
 
 .recipes {
