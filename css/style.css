@@ -35,6 +35,10 @@ aside .panel {
     padding-left: 20px;
 }
 
+.button-group a {
+    color: #6f7065;
+}
+
 .recipes {
     font-size: 50px;
 }
