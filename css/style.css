@@ -21,6 +21,10 @@ p {
 
 aside .panel {
     background: #c37c35;
+}
+
+.panel>h5,
+.panel>p {
     color: #ffffff;
 }
 
