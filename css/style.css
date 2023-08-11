@@ -32,6 +32,10 @@ aside .panel {
     width: 200px;
 }
 
+.logo-color {
+    color: #c37c35;
+}
+
 .topline {
     margin-top: 0;
     color: #c37c35;
