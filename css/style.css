@@ -66,4 +66,5 @@ aside .panel {
 
 .recipe-image {
     width: 100%;
+    border: 3px solid #efc459;
 }
