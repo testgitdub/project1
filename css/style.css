@@ -21,6 +21,7 @@ p {
 
 aside .panel {
     background: #c37c35;
+    border-color: #efc459;
 }
 
 .panel>h5,
@@ -67,4 +68,8 @@ aside .panel {
 .recipe-image {
     width: 100%;
     border: 3px solid #efc459;
+}
+
+.panel>:last-child {
+    color: #efc459;
 }
