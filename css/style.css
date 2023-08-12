@@ -38,6 +38,10 @@ aside .panel {
     font-weight: bold;
 }
 
+.logo-color:hover {
+    color: #c37c35;
+}
+
 .topline {
     margin-top: 0;
     color: #c37c35;
