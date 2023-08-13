@@ -7,6 +7,10 @@ body a {
     color: #4d4e4e;
 }
 
+body a:hover {
+    color: #c37c35;
+}
+
 h3 {
     color: #c37c35;
 }
