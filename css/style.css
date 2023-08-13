@@ -3,11 +3,12 @@ body {
     color: #4d4e4e;
 }
 
-h3>a {
+h3 {
     color: #c37c35;
 }
 
-h4 {
+h4,
+h5 {
     color: #c37c35;
 }
 
@@ -22,6 +23,11 @@ p {
 aside .panel {
     background: #c37c35;
     border-color: #efc459;
+}
+
+article h3,
+aside h5 {
+    color: #c37c35;
 }
 
 .panel>h5,
@@ -70,7 +76,7 @@ aside .panel {
     border: 3px solid #efc459;
 }
 
-.panel>:last-child {
+.panel> :last-child {
     color: #efc459;
 }
 
