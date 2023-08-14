@@ -1,12 +1,22 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Recipes site
 
-Welcome,
+This project hopes to entice people with an interest in food to indulge in some recipes that are someof my favourites.
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+If they have an interest in Italian, French or Asian dishes they should find something of interest here.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **July 26th, 2023**
+## Recipes
 
-## Codeanywhere Reminders
+In this section, there are a list of receipes that, when clickable are directed in to the individual recipe page which details a list of ingrediatent and instructions for use.
+
+## Testing
+
+I tested in different browers and all seems ok on visual inspection.
+
+I have tested locally and all seems to work on different browsers and screen sizes.
+
+I tried to test locally prior to push to Github pages but it didn't allow the localhost url to preview in the screens (<https://ui.dev/amiresponsive>)
+
+## Codeanywhere - Editor used to make updates and push to Github - instructions on how to use
 
 To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
 
@@ -18,22 +28,33 @@ To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with 
 
 `http_server`
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+### Validator Testing
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+- HTML
+  - No errors were returned when passing through the official W3C
+  
+- CSS
+  - No errors were found when passing through the official (Jigsaw) validator
+  
+## Deployment
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+- The site was deployed to GitHub pages. The steps to deploy are as follows:
+  - In the GitHub repository, navigate to the Settings tab
+  - From the source section drop-down menu, select the Master Branch
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-To log into the Heroku toolbelt CLI:
+The live link can be found here -
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+## Credits
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+- To help with the layout and structure of the HTML/CSS in conjunction with what I've learned so far on the course, I also used the following framework [Zurb Framework](https://get.foundation/)
 
----
+- For the image grid on the home page, I followed the following exampleon the web (<https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_grid_responsive>)
 
-Happy coding!
+### Content
+
+- The text are ideas from the web that have bee reimagined in to fresh new content
+
+### Media
+
+- The photos used on the site are list as free for personal and commercial use on the following website (<https://unsplash.com/>)
