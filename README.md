@@ -1,12 +1,12 @@
 # Recipes site
 
-This project hopes to entice people with an interest in food to indulge in some recipes that are someof my favourites.
+This project hopes to entice people with an interest in food to indulge in some recipes that are some of my favourites.
 
 If they have an interest in Italian, French or Asian dishes they should find something of interest here.
 
 ## Recipes
 
-In this section, there are a list of receipes that, when clickable are directed in to the individual recipe page which details a list of ingrediatent and instructions for use.
+In this section, there are a list of receipes that, when clickable, are directed in to the individual recipe page which details a list of ingrediatent and instructions for use.
 
 ## Testing
 
