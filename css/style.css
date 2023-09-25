@@ -132,6 +132,17 @@ aside h5 {
     }
 }
 
+/* reduce size to show menu on mobile */
+@media screen and (max-width: 320px) {
+    .recipes {
+        font-size: 32px;
+    }
+
+    .logo-color {
+        font-size: 1.1rem;
+    }
+}
+
 /* header - sticky position */
 header {
     width: 100%;
