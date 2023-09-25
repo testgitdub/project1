@@ -16,6 +16,8 @@ I have tested locally and all seems to work on different browsers and screen siz
 
 I tried to test locally prior to push to Github pages but it didn't allow the localhost url to preview in the screens (<https://ui.dev/amiresponsive>)
 
+![Responsive Mockup](https://github.com/testgitdub/project1/blob/main/assets/images/browser_screenshots.png)
+
 ## Codeanywhere - Editor used to make updates and push to Github - instructions on how to use
 
 To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
