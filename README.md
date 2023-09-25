@@ -2,11 +2,27 @@
 
 This project hopes to entice people with an interest in food to indulge in some recipes that are some of my favourites.
 
+Screen of the homepage below:
+
+![Homepage Mockup](https://github.com/testgitdub/project1/blob/main/assets/images/home_screen.png)
+
+Screen of the other page (eg. about) below:
+
+![About Us Mockup](https://github.com/testgitdub/project1/blob/main/assets/images/about_screen.png)
+
 If they have an interest in Italian, French or Asian dishes they should find something of interest here.
 
 ## Recipes
 
 In this section, there are a list of receipes that, when clickable, are directed in to the individual recipe page which details a list of ingrediatent and instructions for use.
+
+Main Recipe list page:
+
+![Recipe Page Mockup](https://github.com/testgitdub/project1/blob/main/assets/images/recipe_list_screen.png)
+
+Individual Recipe page:
+
+![Individual Recipe Page Mockup](https://github.com/testgitdub/project1/blob/main/assets/images/recipe_screen.png)
 
 ## Testing
 
