@@ -30,7 +30,7 @@ I tested in different browers and all seems ok on visual inspection.
 
 I have tested locally and all seems to work on different browsers and screen sizes.
 
-I tried to test locally prior to push to Github pages but it didn't allow the localhost url to preview in the screens (<https://ui.dev/amiresponsive>)
+Below is the screenshot showing the responsiveness of the site in the different screens when testing on the following site - (<https://ui.dev/amiresponsive>)
 
 ![Responsive Mockup](https://github.com/testgitdub/project1/blob/main/assets/images/browser_screenshots.png)
 
